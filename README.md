@@ -14,6 +14,10 @@ A responsive replica of the Netflix landing page, built from scratch using HTML 
 -   HTML5
 -   CSS3
 
+### How to View
+
+You can visit the live page for this project here: [https://dreams-from-dust.github.io/Netflix-Landing-Page-Clone/](https://dreams-from-dust.github.io/Netflix-Landing-Page-Clone/)
+
 ### Getting Started
 
-To view this project, simply clone this repository to your local machine and open the `index.html` file in your web browser.
+Simply clone this repository to your local machine and open the `index.html` file in your web browser.
